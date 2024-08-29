@@ -19,7 +19,7 @@ Here are some images showing (a) the actual region typically surveyed by PMT in 
 
 5.Output: Generates an Excel workbook with detailed analysis results.
 
-Here are the typical results plotted:
+Here are the typical results where SEM micrograohs at same magnification for three differetn samples are compared. The outputs of this code polymer and void volume fractions are plotted:
 ![image](https://github.com/user-attachments/assets/93d901cd-2c24-426a-b2a3-6ef3513523ba)
 
 ## Requirements ##
