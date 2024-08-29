@@ -7,6 +7,7 @@ Typical (a) SEM micrograph, (b) segmentation highlighting particles, (c) segment
 Here are some images showing (a) the actual region typically surveyed by PMT in Shock Microscope setup in the segemented SEM micrograph, (b) phase-I (powder particles) identified, (c) phase-II (voids) identified
 ![image](https://github.com/user-attachments/assets/cd3ae214-a698-4313-a099-998493e4e062)
 
+![Framing gif](https://github.com/user-attachments/assets/048be2a2-815a-460d-a5c9-0ac8c8824f62)
 
 ## Features ##
 1.Microstructure Analysis: Processes SEM images to provide statistics on features observed by PMT.
