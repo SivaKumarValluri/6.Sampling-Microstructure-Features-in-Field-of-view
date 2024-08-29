@@ -1,6 +1,12 @@
 # Quantifying-Heterogenous-Material-Microstructure
 ## Overview ##
 This software package processes segmented cross-sectional scanning electron microscopy (SEM) images to estimate features observed by a photomultiplier tube (PMT). The primary goal is to analyze large microstructure images by superimposing randomly placed rectangular fields of observation and computing statistics on the features within these fields.
+Typical (a) SEM micrograph, (b) segmentation highlighting particles, (c) segmentation highlighting pores/voids
+![image](https://github.com/user-attachments/assets/aa9481b6-df84-46fd-ba87-56643234bd99)
+
+Here are some images showing (a) the actual region typically surveyed by PMT in Shock Microscope setup in the segemented SEM micrograph, (b) phase-I (powder particles) identified, (c) phase-II (voids) identified
+![image](https://github.com/user-attachments/assets/cd3ae214-a698-4313-a099-998493e4e062)
+
 
 ## Features ##
 1.Microstructure Analysis: Processes SEM images to provide statistics on features observed by PMT.
@@ -12,6 +18,9 @@ This software package processes segmented cross-sectional scanning electron micr
 4.Image Analyzer: Analyzes each image by applying randomly placed rectangles and calculates feature statistics.
 
 5.Output: Generates an Excel workbook with detailed analysis results.
+
+Here are the typical results plotted:
+![image](https://github.com/user-attachments/assets/93d901cd-2c24-426a-b2a3-6ef3513523ba)
 
 ## Requirements ##
 -Images: Folder containing segmented microstructure images (cross-section images) where features of interest are highlighted in white.
