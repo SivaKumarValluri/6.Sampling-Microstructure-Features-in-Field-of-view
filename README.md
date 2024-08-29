@@ -1,4 +1,4 @@
-# Quantifying-Heterogenous-Material-Microstructure
+# PyStrucSampler
 ## Overview ##
 This software package processes segmented cross-sectional scanning electron microscopy (SEM) images to estimate features observed by a photomultiplier tube (PMT). The primary goal is to analyze large microstructure images by superimposing randomly placed rectangular fields of observation and computing statistics on the features within these fields.
 Typical (a) SEM micrograph, (b) segmentation highlighting particles, (c) segmentation highlighting pores/voids
